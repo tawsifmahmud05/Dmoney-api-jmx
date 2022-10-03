@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1664801876675,69,Login,200,OK,Thread Group 1-1,text,true,,533,314,1,1,http://dmoney.professionaltrainingbd.com/user/login,69,0,35
+1664801876816,5231,Get user list,200,OK,Thread Group 1-1,text,true,,1733355,411,1,1,http://dmoney.professionaltrainingbd.com/user/list,4601,0,0
+1664801882096,27,Create user,201,Created,Thread Group 1-1,text,true,,588,610,1,1,http://dmoney.professionaltrainingbd.com/user/create,27,0,0
+1664801882124,13,Search user by id,200,OK,Thread Group 1-1,text,true,,539,422,1,1,http://dmoney.professionaltrainingbd.com/user/search/?id=9617,13,0,0
+1664801882138,12,Search user by phone number,200,OK,Thread Group 1-1,text,true,,551,439,1,1,http://dmoney.professionaltrainingbd.com/user/search/?phone_number=01324589651,12,0,0
+1664801882151,6,Search user by email,200,OK,Thread Group 1-1,text,true,,539,438,1,1,http://dmoney.professionaltrainingbd.com/user/search/?email=U2s2e2r2@test.com,6,0,0
+1664801882158,10,Update Phone Number,200,OK,Thread Group 1-1,text,true,,372,469,1,1,http://dmoney.professionaltrainingbd.com/user/update/9617,10,0,0
+1664801882169,11,Delete user,200,OK,Thread Group 1-1,text,true,,343,440,1,1,http://dmoney.professionaltrainingbd.com/user/delete/9617,11,0,0
