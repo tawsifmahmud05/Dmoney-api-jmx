@@ -1,7 +1,10 @@
 # Dmoney-api-jmx
 This is a Jmeter Project where the DmoneyAPI is tested by creating test cases for **Login** , **Creating users** , **Searching users by id** , **Searching users by phone number** , **Searching users by email** and also 
 performing **Update** and **Delete** operations. The ramp-up and the number of threads were kept as 1.Here login credentials can also be used from the csv file without explicitly writing it in the body.
-
+## Prerequisite
+  - Java jdk8 must be installed and set with environment
+## Technology and tool used
+  - Jmeter
 Steps to run this project:
 - Clone this project or download the .jmx file in the project directory.
 - Set **Dmoney-api-userData.csv** in the **CSV Data Set Config** in the **Create Custmoner**
