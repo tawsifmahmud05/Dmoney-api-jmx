@@ -5,7 +5,8 @@ performing **Update** and **Delete** operations. The ramp-up and the number of t
   - Java jdk8 must be installed and set with environment
 ## Technology and tool used
   - Jmeter
-Steps to run this project:
+
+## Steps to run this project:
 - Clone this project or download the .jmx file in the project directory.
 - Set **Dmoney-api-userData.csv** in the **CSV Data Set Config** in the **Create Custmoner**
 - You can generate your own HTML summary report by running the following code in the terminal:
